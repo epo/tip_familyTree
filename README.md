@@ -6,5 +6,5 @@
 ### Setting up the environment
 1. Clone the repository
 2. Run the Notebook FamilyTree.ipynb
-## Acknowledgements
+### Acknowledgements
 This project uses the Plotly library at https://plotly.com for graph object visualization and documentation.
